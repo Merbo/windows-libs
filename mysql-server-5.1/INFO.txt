@@ -1,0 +1,6 @@
+These GNU licensed source & compiled binaries are provided to enable additional & optional functionality into the product Anope IRC Services.
+
+In the interests of showing due respect to the developers of this project, the GNU GPL License in full is included in the LICENSE file.
+
+We are very grateful to the efforts of the various people involved in the creation and maintenance of the software we rely upon to further our product functionality. We would welcome any comments if we have not attributed sufficiently to cover the usage of your product and are continually appreciative of your efforts.
+
