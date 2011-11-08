@@ -14,6 +14,10 @@ copy openldap-2.4.23\bin\* installed\
 copy openldap-2.4.23\include\* installed\
 copy openldap-2.4.23\lib\* installed\
 
+copy sqlite-3.7.9\bin\* installed\
+copy sqlite-3.7.9\include\* installed\
+copy sqlite-3.7.9\lib\* installed\
+
 copy mingw\lib\* installed\
 
 mkdir installed\mysql\
