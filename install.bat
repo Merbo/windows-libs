@@ -25,8 +25,8 @@ copy mysql-server-5.1\include\mysql\* installed\mysql
 copy mysql-server-5.1\lib\* installed\
 
 mkdir installed\openssl\
-copy openssl-0.9.8n\include\* installed\openssl\
-copy openssl-0.9.8n\lib\* installed\
+copy openssl-1.0.1e\include\openssl\* installed\openssl\
+copy openssl-1.0.1e\lib\* installed\
 
 copy pcre-8.12\bin\* installed\
 copy pcre-8.12\lib\* installed\
